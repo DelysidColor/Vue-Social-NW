@@ -1,4 +1,4 @@
-# snw
+# tree
 
 ## Project setup
 ```
